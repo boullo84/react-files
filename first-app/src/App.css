@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  background-color: limegreen;
+  color: white;
+  padding: 10px;
+  box-shadow: 0 0 10px black;
+}
